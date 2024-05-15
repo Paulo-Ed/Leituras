@@ -1,5 +1,6 @@
 # Manifesto do Partido Comunista
-Autores: Karl Marx e Friedrich Engels
+
+**Autores:** Karl Marx e Friedrich Engels
 
 O Manifesto, se trata de uma exposição dos elementos fundantes da ideologia marxista. A leitura é bastante acelerada, no sentido que são apresentados variados conceitos e determinações em uma explicação ao mesmo tempo simples e complexa. No livro Marx e Engels apresentam uma elaboração da sociedade sintetizando as raízes estruturantes da dinâmica social e econômica na Europa do século xix. A síntese descreve o funcionamento do capitalismo, dos estratos sociais indicando as razões que as determinam e realizam uma crítica ao capitalismo e suas contradições.
 

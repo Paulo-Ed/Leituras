@@ -1,7 +1,11 @@
 # Mídia Propaganda Política e Manipulação
-Autor: Noam Chomsky
+
+**Autor:** Noam Chomsky
+
+<br>
 
 ## RESUMO
+
 Esse é um resumo sobre minhas percepções sobre o livro. O livro começa apresentando diferentes modelos de democracia, levantando a tese de que vivemos em uma democracia, porém não de acordo com a definição clássica que se tem. Chomsky descreve a ideia de que esse modelo de democracia é conduzido por uma pequena parcela, que determina o que é do "interesse de todos", pois a população não tem a capacidade de decidir e não pode perceber que pode decidir. Essa classe de "especialistas" são os responsáveis por criar a visão de mundo que o povo deve ter, para atender as demandas da elite.
 
 É apresentado a ideia de que de maneira geral, a sociedade se comparta de maneira pacífica em relação as questões que se colocam como conflitos e guerras ou divergências políticas. Dessa forma os meios de comunicação/informação desempenham o papel de incitar o espírito de violência, de vingança, de ódio. Os métodos passam principalmente por criar uma atmosfera de medo e pânico, apelando para aspectos morais que atingem as pessoas de forma irracional. Essa atmosfera serve para se criar o respaldo por parte da população as ações que o estado ou seus instrumentos precisam realizar para garantir os interesses dos seus controladores. Da mesma forma atua-se na perspectiva de apresentar a realidade de forma distorcida, "realidade" essa que se molda a visão que o grupo dominante quer que o povo possua, geralmente feita com base em distorções, criação de inimigos imaginários, ou sob a justificativa de que é para o bem de todos, angariando assim uma realidade construída sobre as bases do que realmente aconteceu, levando ao esquecimento e a perpetuação da mentira como verdade histórica.
